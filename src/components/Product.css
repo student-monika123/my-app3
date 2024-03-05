@@ -1,0 +1,9 @@
+.a{
+    border-style: none;
+}
+
+@media(max-width: 1600px){
+    .img{
+        height: 100px;
+    }
+}
